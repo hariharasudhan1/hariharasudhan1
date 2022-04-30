@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/tcshari2011/firstproject/_apis/build/status/hariharasudhan1.hariharasudhan1?branchName=master)](https://dev.azure.com/tcshari2011/firstproject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
